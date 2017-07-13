@@ -24,6 +24,7 @@ in this repository. Projects at beta and live should follow these recommendation
 
 ### Operating services
 
+- [Hosting](hosting.html)
 - [Operating systems](operating-systems.html)
 - [Storing and querying logs](logging.html)
 - [Monitoring your service](monitoring.html)
